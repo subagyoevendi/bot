@@ -1,0 +1,11 @@
+{
+    "ownerBot": [
+        "6285340671287"
+    ],
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "botwa"
+    }
+}
